@@ -1,8 +1,8 @@
-export default function ConsoleHome() {
+export default function ConsolePage() {
   return (
     <main>
       <h1>Pixtack Console</h1>
-      <p>Photographer dashboard</p>
+      <p>Console is working.</p>
     </main>
   );
 }
